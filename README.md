@@ -38,11 +38,10 @@ I think if I learn how to build within my curiosities, I'll be able to generate 
     **Deep Tech**: Get a job at a deep tech company by summer 2025. (i.e., OpenAI, DeepMind, Mistral, FigureAI, ExtropicAI, Nvidia, etc)
 
 </details>
-<br>
+
 These github repos serve as a training grounds for myself.
 <br>
 
-<br>
 
 >_If you're navigating my github, you'll see most activity in my [Labs](../SINGULARITY/LABS), but will see more tangible projects as seperate repositories [here](https://github.com/vxnuaj?tab=repositories)_
 
