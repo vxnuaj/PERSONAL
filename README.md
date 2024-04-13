@@ -8,7 +8,7 @@ I'm Juan.
 
 I like to tinker with technology.
 
-I have this vision of pushing humanity forward by building scalable projects at the bleeding edge of technology and my curiosity.
+I have this vision of pushing humanity forward by building scalable projects at the intersection of the bleeding edge of technology and my curiosity.
 
 I think if I learn how to build within my curiosities, I'll be able to generate [specific knoweldge](https://nav.al/specific-knowledge) to ultimately produce [great work](https://paulgraham.com/greatwork.html) for humanity.
 <br>
