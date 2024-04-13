@@ -1,5 +1,6 @@
-## Hey :)
 ![Header](./backlog/neurons.png)
+
+## Hey :)
 
 >[LABS](../SINGULARITY/LABS),  [WEBSITE](https://vxnuaj.life), [NEWSLETTER](vxnuaj.substack.com), [MEDIUM](medium.com/@vxnuaj)
 
