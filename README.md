@@ -29,8 +29,6 @@ I think if I learn how to build within my curiosities, I'll be able to generate 
 
     >_My rationale behind going with deep learning is the role I believe t'll play in shaping our future. It's ienvitable that AGI / ASI will disrupt our future._
 
-<br>
-
 2. **Build & learn alongside exceptional founders and engineers.**
 
     **SF**: I'm spending my gap year (2024-2025) in silicon valley for this very reason.
