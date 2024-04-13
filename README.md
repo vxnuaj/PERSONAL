@@ -33,7 +33,7 @@ I think if I learn how to build within my curiosities, I'll be able to generate 
 
     **SF**: I'm spending my gap year (2024-2025) in silicon valley for this very reason.
 
-    **Deep Tech**: Get a job at a deep tech company by summer 2025. (i.e., OpenAI, DeepMind, Mistral, FigureAI, ExtropicAI, Nvidia, etc)
+    **Deep Tech**: Directly contribute and build at a deep tech company by summer 2025. (i.e., OpenAI, DeepMind, Mistral, FigureAI, ExtropicAI, Nvidia, etc)
 
 </details>
 
