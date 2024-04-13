@@ -24,7 +24,7 @@ I think if I learn how to build within my curiosities, I'll be able to generate 
 
     > _TBD, as in I'm not sure what might be possible with the knowledge I'll get nor where my curiosity will lie_
 
-    **AFTER**: I'm not sure where I'll go after. My thoughts are intentions right now are to either go towards neurmorphic chips (post moore's law), get deep into building humanoids, or build seamless interaction with brain-computer-interfaces
+    **AFTER**: I'm not sure where I'll go after. My thoughts and intentions right now are to either go towards neurmorphic chips (post moore's law), get deep into building humanoids, or build seamless interaction with brain-computer-interfaces
 
 
     >_My rationale behind going with deep learning is the role I believe t'll play in shaping our future. It's ienvitable that AGI / ASI will disrupt our future._
