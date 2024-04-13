@@ -1,4 +1,6 @@
 ## Hey :)
+![Header](./backlog/neurons.png)
+
 >[LABS](../SINGULARITY/LABS),  [WEBSITE](https://vxnuaj.life), [NEWSLETTER](vxnuaj.substack.com), [MEDIUM](medium.com/@vxnuaj)
 
 I'm Juan.
