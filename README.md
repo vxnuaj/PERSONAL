@@ -8,7 +8,7 @@ I'm Juan.
 
 I like to tinker with technology.
 
-Someday, I'll be able to build deep learning models, computer chips, and robots just for fun for myself. That's my concept of my future rn.
+Someday, I'll be able to build deep learning models, computer chips, and robots just for myself. That's my concept (at least a portion) of my ideal future rn.
 
 Second, I also have this vision of pushing humanity forward by building scalable projects at the intersection of the bleeding edge of technology and my curiosity.
 
