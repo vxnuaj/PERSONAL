@@ -16,7 +16,6 @@ I think if I learn how to build within my curiosities, I'll be able to generate 
 
 <details><summary>THE BLUEPRINT (TLDR)
 </summary>
-<br>
 
 1. **Learn how to build. Build exceptional engineering skillsets with deep technologies.**
 
