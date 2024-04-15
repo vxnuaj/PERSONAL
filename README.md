@@ -8,10 +8,12 @@ I'm Juan.
 
 I like to tinker with technology.
 
-I have this vision of pushing humanity forward by building scalable projects at the intersection of the bleeding edge of technology and my curiosity.
+Someday, I'll be able to build deep learning models, computer chips, and robots just for fun for myself. That's my concept of my future rn.
+
+Second, I also have this vision of pushing humanity forward by building scalable projects at the intersection of the bleeding edge of technology and my curiosity.
 
 I think if I learn how to build within my curiosities, I'll be able to generate [specific knoweldge](https://nav.al/specific-knowledge) to ultimately produce [great work](https://paulgraham.com/greatwork.html) for humanity.
-<br>
+
 <details><summary>THE BLUEPRINT (TLDR)
 </summary>
 <br>
@@ -37,7 +39,7 @@ I think if I learn how to build within my curiosities, I'll be able to generate 
 
 </details>
 
-These github repos serve as a training grounds for myself.
+These github repos serve as a training grounds for myself, as I build the engineering skillsets I want.
 <br>
 
 
