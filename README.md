@@ -3,6 +3,7 @@
 ## Hey :)
 
 >[LABS](https://github.com/vxnuaj/LABS),  [WEBSITE](https://vxnuaj.life), [NEWSLETTER](vxnuaj.substack.com), [MEDIUM](medium.com/@vxnuaj)
+> **Last Update**: 04/15/2024
 
 I'm Juan.
 
