@@ -9,7 +9,9 @@ I'm Juan.
 
 I like to tinker with technology.
 
-Someday, I'll be able to build deep learning models, neurmorphic chips, and robots just for myself. <br>That's my concept (at least a portion) of my ideal future rn.
+Someday, I'll be able to build deep learning models, neurmorphic chips, and robots just for myself. <br>
+
+That's my concept (at least a portion) of my ideal future rn.
 
 I also have this vision of pushing humanity forward by building scalable projects at the intersection of the bleeding edge of technology and my curiosity.
 
