@@ -2,7 +2,7 @@
 
 ## Hey :)
 
->[LABS](https://github.com/vxnuaj/LABS), [NEOCORTEX](https://github.com/vxnuaj/NEOCORTEX)  [WEBSITE](https://vxnuaj.life), [NEWSLETTER](https://vxnuaj.substack.com), [MEDIUM](https://medium.com/@vxnuaj)<br><br>
+>[LABS](https://github.com/vxnuaj/LABS), [NEOCORTEX](https://github.com/vxnuaj/NEOCORTEX), [WEBSITE](https://vxnuaj.life), [NEWSLETTER](https://vxnuaj.substack.com), [MEDIUM](https://medium.com/@vxnuaj)<br><br>
 > **Last Update**: 04/15/2024
 
 I'm Juan.
