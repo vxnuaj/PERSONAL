@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NEOCORTEX.md",
+                "file": "For Myself/PLACEHOLDER.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NEOCORTEX.md",
+                "file": "For Myself/PLACEHOLDER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NEOCORTEX.md",
+                "file": "For Myself/PLACEHOLDER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NEOCORTEX.md"
+                "file": "For Myself/PLACEHOLDER.md"
               }
             }
+          },
+          {
+            "id": "c4c17e8b54813617",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,15 +154,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be974c8ca80d47e8",
+  "active": "d7cd27c290cebc61",
   "lastOpenFiles": [
-    "untitled folder",
-    "repo",
-    "NEOCORTEX",
+    "README.md",
+    "For Myself/PLACEHOLDER.md",
+    "obsidian.md",
+    "Neurons/Deep-Learning/Regression/logregmath.md",
+    "Neurons/Deep-Learning/Regression/Linear-Regression.md",
+    "Neurons/Deep-Learning/Regression",
+    "Neurons/Deep Learning/Neural-Networks/ForwardPropagation.md",
+    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/imagebacklog/logregcompgraph.png",
+    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/imagebacklog/featvec.png",
+    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/imagebacklog/computationgraph.png",
+    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/imagebacklog/Xmatrix.png",
+    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/Week 3.md",
+    "Neurons/Deep-Learning/Neural-Networks/imagebacklog/neuralnet.png",
+    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/imagebacklog",
+    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/Week 2.md",
+    "Neurons/Deep-Learning/Neural-Networks/imagebacklog",
+    "Neurons/Deep-Learning/Neural-Networks/ForwardPropagation.md",
+    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks",
+    "Neurons/Deep-Learning/Linear-Regression",
+    "Neurons/Deep-Learning/Neural-Networks",
+    "Neurons/Deep-Learning/Andrew-Ng (del)",
+    "Neurons/Deep-Learning",
+    "Neurons/Deep Learning/Andrew-Ng (del)/Neural Networks/imagebacklog/logregcompgraph.png",
+    "Neurons/Deep Learning/Andrew-Ng (del)/Neural Networks/imagebacklog/computationgraph.png",
+    "Neurons/Deep Learning/Andrew-Ng (del)/Neural Networks/imagebacklog/featvec.png",
+    "Neurons/Deep Learning/Andrew-Ng (del)/Neural Networks/imagebacklog/Xmatrix.png",
+    "Neurons/Deep Learning/Andrew-Ng (del)/Neural Networks/imagebacklog",
+    "Neurons/Deep Learning/Andrew-Ng (del)/Neural Networks/Week 3.md",
+    "Neurons/Deep Learning/Andrew-Ng (del)/Neural Networks/Week 2.md",
+    "Neurons/Deep Learning/Andrew-Ng (del)/Neural Networks",
+    "Neurons/Mathematics/Linear-Algebra.md",
+    "Neurons/Deep Learning/Andrew Ng (del)/Neural Networks/Week 3.md",
+    "Neurons/Deep Learning/Andrew Ng (del)/Neural Networks/Week 2.md",
+    "Neurons/Deep Learning/Neural-Networks/imagebacklog/neuralnet.png",
+    "W3NNDL.md",
     "NEOCORTEX.md",
+    "README.MD",
     "FOR.md",
-    "NEURONS",
-    "FOR MYSELF",
     "logreg2.py.md"
   ]
 }

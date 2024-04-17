@@ -45,7 +45,7 @@ These github repos serve as a training grounds for myself, as I build the engine
 <br>
 
 
->_If you're navigating my github, you'll see most activity in my [Labs](https://github.com/vxnuaj/LABS), but will see more tangible projects as seperate repositories [here](https://github.com/vxnuaj?tab=repositories)_
+>_If you're navigating my github, you'll see most activity in my [LABS](https://github.com/vxnuaj/LABS) or [NEOCORTEX](https://github.com/vxnuaj/NEOCORTEX), but will see more tangible projects as seperate repositories [here](https://github.com/vxnuaj?tab=repositories)_
 
 
 If you wanna chat, feel free to message me on [twitter](x.com/vxnuaj) or [email](mailto:jv.100420@gmail.com)
