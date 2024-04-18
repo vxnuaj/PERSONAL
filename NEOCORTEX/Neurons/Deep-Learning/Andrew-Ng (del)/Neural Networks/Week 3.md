@@ -84,8 +84,6 @@ You can easily vectorize your inputs and feed them forward at once.
 >
 > _This depends on the nature of your dataset and the conventions you'd wish to use_
 
-For more details on the mathematics refer to [here](/Artificial-Intelligence/Machine-Learning/Neural-Networks/ForwardPropagation.md)
-
 ### Activation Functions
 
 **Sigmoid**, is mathematically defined as:

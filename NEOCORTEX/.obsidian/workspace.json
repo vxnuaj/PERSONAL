@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8fc4d963d44b8008",
+        "id": "1a8130f28a274f5e",
         "type": "tabs",
         "children": [
           {
-            "id": "d7cd27c290cebc61",
+            "id": "cd38aa7b9263d3bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "For Myself/PLACEHOLDER.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -33,6 +29,14 @@
         "type": "tabs",
         "children": [
           {
+            "id": "234beeaaccbebdba",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          },
+          {
             "id": "be974c8ca80d47e8",
             "type": "leaf",
             "state": {
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#deeplearning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,20 +60,12 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "8c61f2e30c77f3a9",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 253.50418853759766
   },
   "right": {
     "id": "9c39c5ef4c715431",
@@ -80,12 +76,19 @@
         "type": "tabs",
         "children": [
           {
+            "id": "8bbce1cd0d865da9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "6d2ff52a299d5013",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "For Myself/PLACEHOLDER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "For Myself/PLACEHOLDER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,21 +126,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "For Myself/PLACEHOLDER.md"
-              }
-            }
-          },
-          {
-            "id": "c4c17e8b54813617",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,39 +145,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7cd27c290cebc61",
+  "active": "cd38aa7b9263d3bf",
   "lastOpenFiles": [
-    "README.md",
+    "Neurons/Mathematics/Linear-Algebra.md",
+    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/Week 3.md",
+    "Artificial-Intelligence/Machine-Learning/Neural-Networks/ForwardPropagation.md",
+    "Neurons/Deep-Learning/The Mathematics of Logistic Regression.md",
+    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/Week 2.md",
+    "Neurons/Deep-Learning/Forward Propagation in Linear Algebra.md",
+    "Artificial-Intelligence/Machine-Learning/Neural-Networks",
+    "Artificial-Intelligence/Machine-Learning",
+    "Artificial-Intelligence",
+    "Neurons/Deep-Learning/Linear-Regression.md",
     "For Myself/PLACEHOLDER.md",
+    "Spaces",
+    "Neurons/Deep-Learning/Neural Architecture Search.md",
+    "README.md",
+    "Untitled.canvas",
+    "Neurons/Deep-Learning/Neural network.md",
+    "neural network.md",
     "obsidian.md",
-    "Neurons/Deep-Learning/Regression/logregmath.md",
-    "Neurons/Deep-Learning/Regression/Linear-Regression.md",
     "Neurons/Deep-Learning/Regression",
     "Neurons/Deep Learning/Neural-Networks/ForwardPropagation.md",
-    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/imagebacklog/logregcompgraph.png",
-    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/imagebacklog/featvec.png",
-    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/imagebacklog/computationgraph.png",
-    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/imagebacklog/Xmatrix.png",
-    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/Week 3.md",
-    "Neurons/Deep-Learning/Neural-Networks/imagebacklog/neuralnet.png",
-    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/imagebacklog",
-    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/Week 2.md",
-    "Neurons/Deep-Learning/Neural-Networks/imagebacklog",
-    "Neurons/Deep-Learning/Neural-Networks/ForwardPropagation.md",
+    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/images/logregcompgraph.png",
+    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/images/featvec.png",
+    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/images/computationgraph.png",
+    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/images/Xmatrix.png",
+    "Neurons/Deep-Learning/images/neuralnet.png",
+    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/images",
+    "Neurons/Deep-Learning/images",
     "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks",
     "Neurons/Deep-Learning/Linear-Regression",
     "Neurons/Deep-Learning/Neural-Networks",
-    "Neurons/Deep-Learning/Andrew-Ng (del)",
-    "Neurons/Deep-Learning",
     "Neurons/Deep Learning/Andrew-Ng (del)/Neural Networks/imagebacklog/logregcompgraph.png",
     "Neurons/Deep Learning/Andrew-Ng (del)/Neural Networks/imagebacklog/computationgraph.png",
     "Neurons/Deep Learning/Andrew-Ng (del)/Neural Networks/imagebacklog/featvec.png",
     "Neurons/Deep Learning/Andrew-Ng (del)/Neural Networks/imagebacklog/Xmatrix.png",
-    "Neurons/Deep Learning/Andrew-Ng (del)/Neural Networks/imagebacklog",
     "Neurons/Deep Learning/Andrew-Ng (del)/Neural Networks/Week 3.md",
     "Neurons/Deep Learning/Andrew-Ng (del)/Neural Networks/Week 2.md",
-    "Neurons/Deep Learning/Andrew-Ng (del)/Neural Networks",
-    "Neurons/Mathematics/Linear-Algebra.md",
     "Neurons/Deep Learning/Andrew Ng (del)/Neural Networks/Week 3.md",
     "Neurons/Deep Learning/Andrew Ng (del)/Neural Networks/Week 2.md",
     "Neurons/Deep Learning/Neural-Networks/imagebacklog/neuralnet.png",

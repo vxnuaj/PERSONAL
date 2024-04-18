@@ -1,10 +1,8 @@
-## A Look at Forward Propagation in Terms of Linear Algebra
-
 > _For only a single training / test sample!_
 
 Let's consider a simple network:
 
-![ | 400](imagebacklog/neuralnet.png)
+![ | 400](neuralnet.png)
 
 1. The input layer consists of 3 input features or input neurons, $x^{[i]}$.
 2. The first hidden layer consists of 2 neurons, $n_1^{i}$

@@ -144,9 +144,6 @@ $\frac{1}{m} \sum_{i=1}^{m} L(\hat{y}^i, y^i)$
 The loss function is the loss of 1 parameter, whilst the cost function is the averaged loss of all parameters.
 
 Ultimately, logistic regression can be seen as a mini-neural network. Logistic regression computed on a single datapoint can be considered a neuron of a neural network!
-
->**Note**: For the full math, check [here](/Artificial-Intelligence/Machine-Learning/Logistic-Regression/logregmath.md)
-
 ## Gradient Descent
 
 Given the cost function:
