@@ -1,0 +1,45 @@
+.navbar{
+    position: fixed;
+    top: 135px;
+    left: 18%;
+}
+
+.index {
+    font-size: 18px;
+    font-weight: 550;
+}
+
+.indexLinks{
+    font-size: 16px;
+    list-style: none;
+    padding: 0px;
+    line-height: 42px;
+    margin-bottom: 135px;
+}
+
+.findme{
+    font-size: 18px;
+    font-weight: 550;
+}
+
+.findmeLinks{
+    font-size: 16px;
+    list-style: none;
+    padding: 0px;
+    line-height: 42px
+}
+
+.backgroundCircle{
+    position: absolute;
+    top: 38%;
+    left: 25%;
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    background: radial-gradient(
+      circle,
+      rgba(255, 86, 34, 0.307) 0%,
+      rgba(255, 86, 34, 0.206) 30%,
+      rgba(255, 86, 34, 0.028) 45%,
+       rgba(0,0,0,1) 50%);
+  }
