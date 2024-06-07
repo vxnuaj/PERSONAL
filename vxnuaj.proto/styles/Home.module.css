@@ -1,16 +1,9 @@
-
-
 .home{
   font-family: Helvetica Neue;
 }
 
-.heading{
-  margin-bottom: 20px;
-  position: relative;
-}
-
 .headingName{
-  font-size: 30px;
+  font-size: 1.8rem;
   font-weight: 450;
   display: inline;
 }
@@ -23,15 +16,17 @@
 
 .body{
   position: relative;
-  top: 120px;
+  align-items: center;
+  top: 45px;
   width: fit-content;
-  left: 39%;
-  line-height: 30px;
+  left: 33.15%;
+  line-height: 1.5rem;
 }
 
 .bodyMain{
-  margin-top: 43px;
-  font-size: 16px;
+  margin-top: 35px;
+  font-size: 15px;
+  letter-spacing: .4px;
 }
 
 .bodyMainSmall{
@@ -39,21 +34,62 @@
   display: inline;
 }
 
-.bodyHBar{
-  position: relative;
-  width: 500px;
-  height: 10px;
-  color: white;
-  border-color: white;
-}
-
 .bodyHR{
   position: relative;
-  top: 190px;
+  top: 150px;
   left: 6.4%;
-  width:35%;
-  border: none;
-  height: 100px;
+  height: 0px;
+  border-top: none;
   color: #FFFFFF;
   opacity: 25%;
+}
+
+.posts{
+  font-size: 16px;
+  list-style: none;
+  display: inline-block;
+  position: relative;
+  left: -6%;
+  width: 612px;
+  line-height: normal;
+}
+
+.postContent{
+  position: relative;
+  display: flex;
+  width: 83%;
+}
+
+.postItem{
+  position: relative;
+  margin-top: 10px;
+  width: 120%;
+}
+
+.postTitle{
+  position: absolute;
+  text-align: left;
+  left: 40%;
+}
+
+.postDate{
+  position: relative;
+  color: #8F8F8F;
+}
+
+.socialLinks{
+  position: relative;
+  top: 25px;
+  font-size: 16px;
+}
+
+.linkArrow{
+  position: relative;
+  margin-right: 3px;
+  top: 5px;
+}
+
+.socialName{
+  position: relative;
+  margin-right: 30px;
 }

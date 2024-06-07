@@ -1,4 +1,7 @@
 [
   "obsidian-git",
-  "make-md"
+  "make-md",
+  "obsidian-footnotes",
+  "multi-column-markdown",
+  "omnisearch"
 ]

@@ -4,12 +4,9 @@ import styles from '../styles/Navbar.module.css';
 const Navbar = () => {
   return (
     <nav className={styles.navbar}>
-      <div className={styles.index}>
-            Index
-      </div>
       <ul className={styles.indexLinks}>
         <li>
-          <Link href="https://vxnuaj.life">
+          <Link href="/">
             Home
           </Link>
         </li>
@@ -24,23 +21,25 @@ const Navbar = () => {
           </Link>
         </li>
       </ul>
-      <div className = {styles.findme}>
-        Find me
-      </div>
       <ul className={styles.findmeLinks}>
         <li>
             <Link href = "https://x.com/vxnuaj">
-                Twitter
+              <img src = '/twicon.svg'></img>
             </Link>
         </li>
         <li>
             <Link href = "https://github.com/vxnuaj">
-                Github
+              <img src = '/gitico.svg'></img>
             </Link>
         </li>
         <li>
             <Link href = "https://vxnuaj.substack.com">
-                Substack
+              <img src = '/subico.svg'></img>
+            </Link>
+        </li>
+        <li>
+            <Link href = "https://medium.com/@vxnuaj">
+              <img src = '/medico.svg'></img>
             </Link>
         </li>
       </ul>

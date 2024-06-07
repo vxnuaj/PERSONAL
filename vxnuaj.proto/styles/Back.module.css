@@ -1,0 +1,15 @@
+.back{
+    position: relative;
+    top: 134px;
+    left: 23%;
+    width: fit-content;
+}
+
+.arrow{
+    position: relative;
+    margin-right: 10px;
+}
+
+.arrowText{
+    font-size: 14px
+}

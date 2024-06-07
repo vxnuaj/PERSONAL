@@ -1,4 +1,4 @@
-![Header](./backlog/neurons.png)
+![Header](./backlog/rneurons-1.png)
 
 ## Hey :)
 

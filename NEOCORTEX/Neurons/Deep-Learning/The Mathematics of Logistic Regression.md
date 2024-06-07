@@ -1,24 +1,30 @@
+#mathematics
+
+>*A little outdated, not fully representative of a vectorized form despite me saying so.*
+>
+>*Good for intuition though, will update if I see a need.*
+
 Given that we're using
 - Weight matrix $W$
 - Input matrix $X$
 - Bias vector $b$
 - Target vector $Y$
 
-> We'll be using matrices, not individual vals to make things simpler (economists, smh).
+> We'll be using matrices, not individual values to make things simpler (economists, smh).
 
 Linear Regression: $z = W^TX + b$, where $z$ is the prediction/output of the linear regression (commonly referred to as the weighted sum within neural networks).
 
-Sigmoid: $σ(z) = \frac{1}{(1+e^{-z})}$, where $σ(z)$ is the activation output of the logistic regression. We'll use $a$ instead of $σ(z)$ for simplicity.
+[[Sigmoid]]: $σ(z) = \frac{1}{(1+e^{-z})}$, where $σ(z)$ is the activation output of the logistic regression. We'll use $a$ instead of $σ(z)$ for simplicity.
 
-Cross-Entropy Loss (Loss, not cost): $L(Y,a)= - Y log(a) + (1-Y)log(1-a)$
+[[Log Loss]] (Loss, not cost): $L(Y,a)= - Y log(a) + (1-Y)log(1-a)$
 
-Cross-Entropy Cost: $J(Y,a) = \frac{1}{n}(-Y log(a) + (1-Y)log(1-a))$
+Log Cost: $J(Y,a) = \frac{1}{n}(-Y log(a) + (1-Y)log(1-a))$
 
 So essentially,
 
 1. Input matrix $X$ into $z = W^TX + b$
 
-2. ApplY Sigmoid Activation through, $a = σ(z) = \frac{1}{(1+e^{-z})}$
+2. ApplY [[Sigmoid]] Activation through, $a = σ(z) = \frac{1}{(1+e^{-z})}$
 
 3. Calculate the Loss: $L(Y,a) = -(Y log(a) + (1-Y)log(1-a))$
 
@@ -41,3 +47,4 @@ btw, gradients of loss (not cost) w.r.t param $W$ and $b$ is:
 - $\frac{∂L}{∂W} = (a - y) * X$
 - $\frac{∂L}{∂b} = (a - y)$
 - $θ = θ - ⍺ * \frac{∂J}{∂θ}$
+

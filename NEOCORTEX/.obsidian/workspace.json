@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1a8130f28a274f5e",
+        "id": "1ddd377a34aebb3c",
         "type": "tabs",
         "children": [
           {
-            "id": "cd38aa7b9263d3bf",
+            "id": "7ae45dfeae4f77d6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#deeplearning",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,12 +60,21 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "68df9b959ef6af33",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 253.50418853759766
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9c39c5ef4c715431",
@@ -76,15 +85,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8bbce1cd0d865da9",
+            "id": "e6d8175063e51d45",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {}
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           },
           {
-            "id": "6d2ff52a299d5013",
+            "id": "ba44d541955ca326",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78af063f41a3af8b",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -100,25 +123,11 @@
             }
           },
           {
-            "id": "226a3273047b5118",
+            "id": "f8d88cee62514a94",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "e6d8175063e51d45",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+              "type": "git-view",
+              "state": {}
             }
           },
           {
@@ -129,14 +138,17 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -145,51 +157,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd38aa7b9263d3bf",
+  "active": "7ae45dfeae4f77d6",
   "lastOpenFiles": [
-    "Neurons/Mathematics/Linear-Algebra.md",
-    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/Week 3.md",
-    "Artificial-Intelligence/Machine-Learning/Neural-Networks/ForwardPropagation.md",
-    "Neurons/Deep-Learning/The Mathematics of Logistic Regression.md",
-    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/Week 2.md",
-    "Neurons/Deep-Learning/Forward Propagation in Linear Algebra.md",
+    "Neurons/Deep-Learning/Gradient Checking.md",
+    "Neurons/Deep-Learning/He Initialization.md",
+    "Neurons/Deep-Learning/Activation Function.md",
+    "Neurons/Deep-Learning/Xavier Initialization.md",
+    "Neurons/Deep-Learning/Sigmoid.md",
+    "Vanishing Gradient.md",
+    "Neurons/Deep-Learning/Weight Initialization.md",
+    "Exploding Gradients.md",
+    "Neurons/Deep-Learning/Z-Score Normalization.md",
+    "Neurons/Deep-Learning/Data Augmentation.md",
+    "Neurons/Deep-Learning/Papers/Dropout - A Way to Prevent Networks from Overfitting.md",
+    "Neurons/Deep-Learning/Input Normalization.md",
+    "Neurons/Deep-Learning/Dropout.md",
+    "Neurons/Deep-Learning/Early Stopping.md",
+    "Neurons/Deep-Learning/Papers/Papers.md",
+    "Neurons/Deep-Learning/L2 Regularization.md",
+    "Neurons/Deep-Learning/Papers/images/Pasted image 20240604165753.png",
+    "Neurons/Deep-Learning/images/Screenshot 2024-06-04 at 4.51.37 PM.png",
+    "Neurons/Mathematics/Euclidean Norm.md",
+    "Neurons/Deep-Learning/L1 Regularization.md",
+    "Neurons/Mathematics/Frobenius Norm.md",
+    "Neurons/Deep-Learning/Regularization.md",
+    "Neurons/Deep-Learning/images/Screenshot 2024-06-04 at 4.29.33 PM.png",
+    "Neurons/Deep-Learning/Generalization.md",
+    "Neurons/Deep-Learning/images/Screenshot 2024-06-04 at 4.11.55 PM.png",
+    "Neurons/Deep-Learning/images/Screenshot 2024-06-04 at 2.46.42 PM.png",
+    "Neurons/Deep-Learning/Label Smoothing.md",
+    "Neurons/Mathematics/Uniform Distribution.md",
+    "Neurons/Deep-Learning/Bias and Variance.md",
+    "Neurons/Deep-Learning/images/Screenshot 2024-06-04 at 2.01.18 PM.png",
+    "Neurons/Deep-Learning/images/Screenshot 2024-06-04 at 1.54.07 PM.png",
+    "Neurons/Deep-Learning/images/Screenshot 2024-06-04 at 1.50.50 PM.png",
+    "Neurons/Deep-Learning/Inverted dropout.md",
+    "Neurons/Deep-Learning/Dropout - A Simple Way to Prevent Neural Networks from Overfitting.md",
+    "Neurons/Deep-Learning/Papers/images/Screenshot 2024-06-04 at 9.57.58 AM.png",
+    "Neurons/Deep-Learning/Papers/images/Screenshot 2024-06-04 at 9.31.24 AM.png",
+    "Neurons/Deep-Learning/Papers/images",
+    "Neurons/Deep-Learning/Papers",
+    "Neurons/Mathematics/images",
+    "Neurons/Mathematics",
+    "Mathematics of Backpropagation (Softmax ",
+    "Neurons/Programming/Python",
+    "Neurons/Programming",
+    "Neurons/Computers",
     "Artificial-Intelligence/Machine-Learning/Neural-Networks",
     "Artificial-Intelligence/Machine-Learning",
-    "Artificial-Intelligence",
-    "Neurons/Deep-Learning/Linear-Regression.md",
-    "For Myself/PLACEHOLDER.md",
-    "Spaces",
-    "Neurons/Deep-Learning/Neural Architecture Search.md",
-    "README.md",
-    "Untitled.canvas",
-    "Neurons/Deep-Learning/Neural network.md",
-    "neural network.md",
-    "obsidian.md",
-    "Neurons/Deep-Learning/Regression",
-    "Neurons/Deep Learning/Neural-Networks/ForwardPropagation.md",
-    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/images/logregcompgraph.png",
-    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/images/featvec.png",
-    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/images/computationgraph.png",
-    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/images/Xmatrix.png",
-    "Neurons/Deep-Learning/images/neuralnet.png",
-    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks/images",
-    "Neurons/Deep-Learning/images",
-    "Neurons/Deep-Learning/Andrew-Ng (del)/Neural Networks",
-    "Neurons/Deep-Learning/Linear-Regression",
-    "Neurons/Deep-Learning/Neural-Networks",
-    "Neurons/Deep Learning/Andrew-Ng (del)/Neural Networks/imagebacklog/logregcompgraph.png",
-    "Neurons/Deep Learning/Andrew-Ng (del)/Neural Networks/imagebacklog/computationgraph.png",
-    "Neurons/Deep Learning/Andrew-Ng (del)/Neural Networks/imagebacklog/featvec.png",
-    "Neurons/Deep Learning/Andrew-Ng (del)/Neural Networks/imagebacklog/Xmatrix.png",
-    "Neurons/Deep Learning/Andrew-Ng (del)/Neural Networks/Week 3.md",
-    "Neurons/Deep Learning/Andrew-Ng (del)/Neural Networks/Week 2.md",
-    "Neurons/Deep Learning/Andrew Ng (del)/Neural Networks/Week 3.md",
-    "Neurons/Deep Learning/Andrew Ng (del)/Neural Networks/Week 2.md",
-    "Neurons/Deep Learning/Neural-Networks/imagebacklog/neuralnet.png",
-    "W3NNDL.md",
-    "NEOCORTEX.md",
-    "README.MD",
-    "FOR.md",
-    "logreg2.py.md"
+    "Untitled.canvas"
   ]
 }

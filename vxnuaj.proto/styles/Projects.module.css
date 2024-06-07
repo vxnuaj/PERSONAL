@@ -1,0 +1,106 @@
+.headingName{
+    font-size: 1.8rem;
+    font-weight: 450;
+    display: inline;
+  }
+
+.body{
+    position: relative;
+    align-items: center;
+    top: 45px;
+    width: fit-content;
+    left: 33.15%;
+    line-height: 1.5rem;
+  }
+
+.headingName{
+    font-size: 1.8rem;
+    font-weight: 450;
+    display: inline;
+}
+
+.headingSub{
+    line-height: 2.2rem;
+    position: relative;
+    top: 5px;
+}
+
+.currentProjs{
+  position: relative;
+  font-weight: 500;
+  font-size: 17px;
+  top: 10px;
+}
+
+.pastProjs{
+  position: relative;
+  font-weight: 500;
+  font-size: 17px;
+  top: -20px;
+}
+
+.activeposts{
+    font-size: 16px;
+    list-style: none;
+    display: inline-block;
+    position: relative;
+    left: -6.5%;
+    width: 612px;
+    top: -15px;
+    line-height: 30px;
+  }
+
+  .pastposts{
+    font-size: 16px;
+    list-style: none;
+    display: inline-block;
+    position: relative;
+    left: -6.5%;
+    width: 612px;
+    top: -45px;
+    line-height: 30px;
+  }
+
+.posts a:hover{
+    text-decoration: none;
+  }
+
+.postItem{
+    position: relative;
+    margin-top: 10px;
+    width: 120%;
+  }
+
+  .postContent{
+    position: relative;
+    display: flex;
+    width: 83%;
+}
+
+.postDate{
+    position: relative;
+    color: #8F8F8F;
+    letter-spacing: .2px;
+  }
+
+.postDate:hover{
+    text-decoration: underline;
+  }
+
+  .postTitle{
+    position: absolute;
+    text-align: left;
+    left: 30%;
+  }
+
+  .postTitle:hover{
+    text-decoration: underline;
+  }
+
+ 
+
+.projLinks{
+  position: relative;
+  font-size: 12px;
+  top: 8px;
+}
