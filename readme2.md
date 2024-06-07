@@ -5,8 +5,6 @@
 
 Hey, I'm Juan
 
-
-
 I like to tinker with technology.
 
 Someday, I'll be able to build deep learning models, neurmorphic chips, and robots just for myself. <br>
