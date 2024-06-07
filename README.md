@@ -16,7 +16,7 @@ to get to it’s bleeding edge within the year.
 Recently, I’ve been obsessed with neural networks, knowledge creation &
 epistemology, and paths to artificial superintelligence.
 
-> I'm shipping deep dives on these topics @ [my newsletter, infinity](https://vxnuaj.substack.com/s/infinity)!
+> _I'm shipping deep dives on these topics @ [my newsletter, infinity](https://vxnuaj.substack.com/s/infinity)!_
 
 Also, I [run](https://strava.com/vxnuaj) (If you’re reading this, lemme know if you wanna go on a 15 mi. run. No one, besides 1, has been down for it so far!)
 
