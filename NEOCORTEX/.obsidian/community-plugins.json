@@ -3,5 +3,9 @@
   "make-md",
   "obsidian-footnotes",
   "multi-column-markdown",
-  "omnisearch"
+  "omnisearch",
+  "obsidian-style-settings",
+  "code-styler",
+  "hk-code-block",
+  "obsidian-vimrc-support"
 ]

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1ddd377a34aebb3c",
+        "id": "f7797c887f65fcd4",
         "type": "tabs",
         "children": [
           {
-            "id": "7ae45dfeae4f77d6",
+            "id": "490ef23425251634",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -28,14 +28,6 @@
         "id": "ea7e2c32179552e4",
         "type": "tabs",
         "children": [
-          {
-            "id": "234beeaaccbebdba",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
-          },
           {
             "id": "be974c8ca80d47e8",
             "type": "leaf",
@@ -62,18 +54,27 @@
             }
           },
           {
-            "id": "68df9b959ef6af33",
+            "id": "00f9ab2e7eb12121",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4a144040be643fc4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 273.5024719238281,
     "collapsed": true
   },
   "right": {
@@ -138,12 +139,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -157,54 +157,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ae45dfeae4f77d6",
+  "active": "490ef23425251634",
   "lastOpenFiles": [
-    "Neurons/Deep-Learning/Gradient Checking.md",
-    "Neurons/Deep-Learning/He Initialization.md",
-    "Neurons/Deep-Learning/Activation Function.md",
-    "Neurons/Deep-Learning/Xavier Initialization.md",
-    "Neurons/Deep-Learning/Sigmoid.md",
-    "Vanishing Gradient.md",
-    "Neurons/Deep-Learning/Weight Initialization.md",
-    "Exploding Gradients.md",
-    "Neurons/Deep-Learning/Z-Score Normalization.md",
-    "Neurons/Deep-Learning/Data Augmentation.md",
-    "Neurons/Deep-Learning/Papers/Dropout - A Way to Prevent Networks from Overfitting.md",
-    "Neurons/Deep-Learning/Input Normalization.md",
-    "Neurons/Deep-Learning/Dropout.md",
-    "Neurons/Deep-Learning/Early Stopping.md",
-    "Neurons/Deep-Learning/Papers/Papers.md",
-    "Neurons/Deep-Learning/L2 Regularization.md",
-    "Neurons/Deep-Learning/Papers/images/Pasted image 20240604165753.png",
-    "Neurons/Deep-Learning/images/Screenshot 2024-06-04 at 4.51.37 PM.png",
-    "Neurons/Mathematics/Euclidean Norm.md",
-    "Neurons/Deep-Learning/L1 Regularization.md",
-    "Neurons/Mathematics/Frobenius Norm.md",
-    "Neurons/Deep-Learning/Regularization.md",
-    "Neurons/Deep-Learning/images/Screenshot 2024-06-04 at 4.29.33 PM.png",
-    "Neurons/Deep-Learning/Generalization.md",
-    "Neurons/Deep-Learning/images/Screenshot 2024-06-04 at 4.11.55 PM.png",
-    "Neurons/Deep-Learning/images/Screenshot 2024-06-04 at 2.46.42 PM.png",
-    "Neurons/Deep-Learning/Label Smoothing.md",
-    "Neurons/Mathematics/Uniform Distribution.md",
-    "Neurons/Deep-Learning/Bias and Variance.md",
-    "Neurons/Deep-Learning/images/Screenshot 2024-06-04 at 2.01.18 PM.png",
-    "Neurons/Deep-Learning/images/Screenshot 2024-06-04 at 1.54.07 PM.png",
-    "Neurons/Deep-Learning/images/Screenshot 2024-06-04 at 1.50.50 PM.png",
-    "Neurons/Deep-Learning/Inverted dropout.md",
-    "Neurons/Deep-Learning/Dropout - A Simple Way to Prevent Neural Networks from Overfitting.md",
-    "Neurons/Deep-Learning/Papers/images/Screenshot 2024-06-04 at 9.57.58 AM.png",
-    "Neurons/Deep-Learning/Papers/images/Screenshot 2024-06-04 at 9.31.24 AM.png",
-    "Neurons/Deep-Learning/Papers/images",
-    "Neurons/Deep-Learning/Papers",
+    "Neurons/Mathematics/F1 Score.md",
+    "Neurons/Mathematics/Precision.md",
+    "Neurons/Machine-Learning/K-Nearest-Neighbors Classifier.md",
+    "Neurons/Mathematics/Harmonic Mean.md",
+    "Neurons/Mathematics/Recall.md",
+    "Neurons/Mathematics/Standard Error.md",
+    "Neurons/Machine-Learning/Metrics.md",
+    "Neurons/Machine-Learning/R Squared.md",
+    "Neurons/Machine-Learning/Population Regression Line.md",
+    "Neurons/Machine-Learning/Least Squares Regression Line.md",
+    "Neurons/Machine-Learning/Ordinary Least Squares.md",
+    "Neurons/Mathematics/Adjugate.md",
+    "Neurons/Machine-Learning/Interpretations of Momentum.md",
+    "Neurons/Mathematics/Non-singular Matrix.md",
+    "Neurons/Mathematics/Invertible Matrix.md",
+    "Neurons/Mathematics/Identity Matrix.md",
+    "Neurons/Mathematics/Singular Matrix.md",
+    "Neurons/Mathematics/Determinant.md",
+    "Neurons/Mathematics/Laplace Expansion.md",
+    "Neurons/Mathematics/Matrix Multiplication.md",
+    "Neurons/Mathematics/Dot Product.md",
+    "Neurons/Mathematics/Rⁿ.md",
+    "Neurons/Mathematics/Cartesian Product.md",
+    "Neurons/Mathematics/Row Picture.md",
+    "Neurons/Mathematics/Column Picture.md",
+    "Neurons/Mathematics/images/Screenshot 2024-07-09 at 10.49.17 AM.png",
+    "Neurons/Mathematics/Systems of Linear Equations.md",
+    "Neurons/Mathematics/images/Pasted image 20240708175454.png",
+    "Neurons/Mathematics/images/Pasted image 20240708175326.png",
+    "Neurons/Machine-Learning/images/Pasted image 20240706125247.png",
+    "images",
+    "Neurons/Mathematics/images/Pasted image 20240706124821.png",
+    "Neurons/Machine-Learning/Reads/images/Screenshot 2024-07-05 at 10.02.42 AM.png",
+    "vxnuaj.substack.com/infinity",
+    "vxnuaj.substack.com/s",
+    "vxnuaj.substack.com",
+    "Neurons/Machine-Learning/Reads/images/Screenshot 2024-07-05 at 10.57.39 AM.png",
+    "Neurons/Machine-Learning/Reads/images/Screenshot 2024-07-05 at 10.46.55 AM.png",
+    "Neurons/Machine-Learning/images/Pasted image 20240703105719.png",
+    "Neurons/Mathematics/images/Pasted image 20240608084728.png",
+    "Neurons/Computers/Reads/images",
+    "Neurons/Computers/Writing",
+    "Neurons/Computers/Reads",
+    "Neurons/Machine-Learning/Reads/images",
+    "Neurons/Machine-Learning/Reads",
     "Neurons/Mathematics/images",
-    "Neurons/Mathematics",
-    "Mathematics of Backpropagation (Softmax ",
-    "Neurons/Programming/Python",
-    "Neurons/Programming",
-    "Neurons/Computers",
-    "Artificial-Intelligence/Machine-Learning/Neural-Networks",
-    "Artificial-Intelligence/Machine-Learning",
     "Untitled.canvas"
   ]
 }

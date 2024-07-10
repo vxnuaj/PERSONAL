@@ -1,0 +1,1 @@
+A regression technique that estimates a single regression model with more than one outcome value.

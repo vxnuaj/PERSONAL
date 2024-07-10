@@ -1,4 +1,8 @@
 {
-  "accentColor": "",
-  "theme": "obsidian"
+  "accentColor": "#6771f9",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "Inter",
+  "interfaceFontFamily": "Inter"
 }
