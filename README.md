@@ -3,9 +3,9 @@
 ## Hey :)
 
 >[LABS](https://github.com/vxnuaj/LABS), [NEOCORTEX](https://github.com/vxnuaj/NEOCORTEX), [WEBSITE](https://vxnuaj.life), [NEWSLETTER](https://vxnuaj.substack.com), [MEDIUM](https://medium.com/@vxnuaj)<br><br>
-> **Last Update**: 06/06/2024
+> **Last Update**: 07/09/2024
 
-I opted out of UC Davis and flew accross the country to spend the year in SF and work on what compels me the most.. 
+I opted out of UC Davis and flew accross the country to spend the year in SF, to learn from high-agency engineers & founders.
 
 Currently, I’m maximizing my skillsets within Deep Learning with the goal to get to it’s bleeding edge within the year.
 
