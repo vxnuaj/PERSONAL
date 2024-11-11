@@ -13,7 +13,7 @@ Recently, I’ve been obsessed with machine intelligence, knowledge creation & e
 
 > _I'm shipping deep dives on these topics @ [my newsletter, infinity](https://vxnuaj.substack.com/s/infinity)!_
 
-Also, I [run](https://strava.com/vxnuaj) (If you’re reading this, lemme know if you wanna go on a 15 mi. run. No one, besides 1, has been down for it so far!)
+Also, I [run](https://strava.com/vxnuaj) (If you’re reading this, lemme know if you wanna go on a 20 mi. run, at 7:30 min/mi pace. No one, besides 1, has been down for it so far!)
 
 If you wanna chat, message me on [X](https://x.com/vxnuaj) or [schedule a call](https://cal.com/vxnuaj)!
 
