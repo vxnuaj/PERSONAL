@@ -1,3 +1,3 @@
 hey :^)
 
-[vxnuaj.com/now](vxnuaj.com/now)
+[vxnuaj.com/now](https://vxnuaj.com/now)
