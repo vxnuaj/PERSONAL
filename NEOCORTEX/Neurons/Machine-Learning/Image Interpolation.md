@@ -1,1 +1,0 @@
-The process of finding the unknown pixels in a given image.

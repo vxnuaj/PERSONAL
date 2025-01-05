@@ -1,1 +1,0 @@
-***Variable number of arguments*** is a feature of a function that allows it to accept any number of arguments.

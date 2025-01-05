@@ -1,1 +1,0 @@
-The perfect regression line to a given population if we had all samples available.

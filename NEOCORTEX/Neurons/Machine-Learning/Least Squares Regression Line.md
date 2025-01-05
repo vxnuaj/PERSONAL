@@ -1,1 +1,0 @@
-The estimated regression line given through [[Ordinary Least Squares]] regression with the given sample.
