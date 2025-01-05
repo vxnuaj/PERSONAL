@@ -15,6 +15,7 @@
        <br>
      Currently, I'm working on deep learning and understanding natural language processing on a deeper level.
        <br>
+       <br>
       I also run a lot (when I'm not injured), but I'm not training for anything -- maybe I will soon. If you wanna go on a long run sometime (15+ mi.), let me know.
        <br>
        <br>
