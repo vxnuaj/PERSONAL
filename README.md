@@ -1,5 +1,5 @@
 <p float="left">
- <img src="pfp.png" width="300" align="left" style="padding-right: 50px; padding-top: 50px">
+ <img src="eye.jpg" width="400" align="left" style="padding-right: 50px; padding-top: 20px">
   <p float="left">
     <samp>
       19 y/o.
